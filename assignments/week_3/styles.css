@@ -1,0 +1,45 @@
+/* commenting in css
+
+CSS Parts: 
+Selector
+Rules: property & value
+
+body {
+background-color: pink
+}
+
+P {
+    color: green;
+    font-size: 72px;
+}
+ */
+
+ #firstDiv{
+     background-color: green;
+     margin: 10px;
+ }
+ #secondDiv {
+    background-color: red;
+ }
+
+ .box {
+     width: 300px;
+     height: 300px;
+     background-color: cornsilk;
+     border-style: solid;
+     border-width: 5px;
+     border-color: purple;
+     margin-top: 50px;
+     margin-left: 100px;
+ }
+ #special-paragraph {
+     font-size: 24px;
+     font-family: "Arial";
+     color: purple;
+     text-decoration: overline underline;
+     font-weight: bold;
+     font-style: italic;
+     line-height: 48px; 
+     direction: rtl;
+     text-align: center;
+ }

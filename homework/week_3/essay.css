@@ -1,0 +1,33 @@
+#topSection{
+    text-align: center;
+    padding: 50px 0 30px 0;
+    background-color: cornsilk;
+    border-style: solid;
+    border-width: 5px;
+    border-color: yellow;
+    margin: 20px 25px 50px 25px;
+    
+}
+h1 {
+    /*font-family:sans-serif;*/
+    font-family:'Courier New';
+
+}
+
+#author {
+    font-family:'Courier New';
+    
+}
+
+p {
+    font-size: 14 ;
+    line-height: 20px;
+
+}
+
+.special-paragraph {
+    font-size: 12;
+    font-family: Arial;
+    font-style: italic;
+}
+
