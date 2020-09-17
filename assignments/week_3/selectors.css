@@ -1,0 +1,20 @@
+body{
+    font-family: "Arial";
+    
+}
+#first{
+    font-family: "Courier"
+}
+#special{
+    color: red;
+}
+.different{
+    font-family: "Verdana";
+}
+.green{
+    color: green;
+    background-color: lightgreen;
+}
+p{
+    font-family:"Lucida Console";
+}
