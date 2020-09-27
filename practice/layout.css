@@ -113,8 +113,8 @@ float: right;
     background-color: white;
     display: inline-block;
     vertical-align: top;
-    padding: 20px;
-    /*border: 1px solid red; shorthand for border-width, border-style, and border-color; */
+    padding: 0;
+   
 }
 
 .menu {
