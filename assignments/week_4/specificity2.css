@@ -1,0 +1,55 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: darksalmon;
+}
+footer div{
+    width: 400px;
+    height: 400px;
+    background-color:blue;
+}
+header div{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+body footer div{
+    background-color: orange;
+}
+html body footer div{
+    background-color: silver;
+}
+a {
+    color: purple;
+}
+div a{
+    color: red;
+}
+div a{
+color: red;
+}
+p a{
+    color: pink;
+}
+
+div > div > p a {
+    color: greenyellow;
+}
+p > a{
+    font-size: 24px;
+}
+.bold{
+    text-decoration: overline;
+}
+a.bold{
+    font-weight: bold;
+}
+p#special-text{
+
+}
+p #special-text{
+
+}
+p, a{
+
+}

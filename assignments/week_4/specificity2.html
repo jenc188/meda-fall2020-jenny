@@ -1,0 +1,45 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Understanding Specificity</title>
+ 
+
+  <link rel="stylesheet" href="specificity2.css">
+  <!--internal stylesheet-->
+  <style>
+    body{
+      background-color: pink;
+      margin: 100px;
+    }
+    h1{
+      font-size: 100px;
+    }
+  </style>
+
+</head>
+
+<body>
+  <a href="#">duckduckgo.com</a>
+  <header>
+    <div></div>
+  </header>
+    
+  <div>
+    <p><a href="#">bing.com</a></p>
+      <div>
+      <p>Hello</p>
+      <ul>
+        <li><a href="#">google.com</a></li>
+      </ul>
+      <p><a href="#">yahoo.com</a></p>
+      </div>
+  </div>
+    <!--inline style-->
+  <footer style="border: dashed red 2px; margin: 20px;">
+    <div></div>
+  </footer>
+</body>
+</html>

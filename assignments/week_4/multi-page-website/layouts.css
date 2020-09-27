@@ -1,0 +1,107 @@
+#container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+#container header nav ul{
+    padding-left: 0;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#container header nav{
+   padding-top: 157px;
+    
+}
+
+#container header nav ul li {
+    display: inline-block;
+    background-color: lightgreen;
+    border-radius: 5px;
+    line-height: 32px;
+    
+}
+#container header nav ul li a{
+    font-family: Arial;
+    line-height: 32px;
+    display: inline-block;
+    height: 32px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    text-decoration: none;
+
+}
+
+header{
+    width: 700px;
+    height: 200px;
+    background-color: blanchedalmond;
+}
+main{
+    /*width: 660px;*/
+    background-color: lightgray;
+    padding: 20px;
+    vertical-align: middle;
+    }
+#home p,#home h1{
+    color:darkgreen;
+}
+#about p{
+    color:fuchsia;
+}
+#about h1{
+    color: fuchsia;
+}
+h2{
+    color: fuchsia;
+}
+body{
+    background-color: lemonchiffon;
+}
+footer{
+    height: 50px;
+    background-color: grey;
+   
+}
+
+footer p{
+text-align: center;
+margin-block-start: 0;
+margin-block-end: 0;
+}
+
+#sidebar{
+    width: 150px;
+    height: 1000px;
+    background-color: skyblue;
+    display: inline-block;
+    
+}
+#article{
+    width: 468px;
+    height: 958px;
+    background-color: pink ;
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+    border: 1px solid red;
+
+}
+.gallery{
+    width: 77px;
+    height: 200px;
+    background-color: silver;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+      
+}
+#gallery-container{
+    line-height: 0px; 
+}
