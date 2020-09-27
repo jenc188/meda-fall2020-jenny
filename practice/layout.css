@@ -108,8 +108,8 @@ float: right;
 }
 
 #article {
-    width: 960px; /* takes into consideration padding and border size, should total 510px */
-    height: 1158px; /* takes into consideration padding and border size, should total 1000px */
+    width: 960px; 
+    height: 1158px; 
     background-color: white;
     display: inline-block;
     vertical-align: top;
@@ -118,9 +118,7 @@ float: right;
 }
 
 .menu {
-    /*width: 250px;
-    height: 190px;*/
-    /*background-color: bisque;*/
+    
     display: inline-block;
     padding: 10px;
     margin-left: 10px;
