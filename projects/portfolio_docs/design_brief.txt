@@ -1,0 +1,50 @@
+Project Two
+
+
+a) The colors for whole website will be lighter colors toward more earth tone colors. The background color for all pages will be light peach color. The font color for words and links will be turquoise color. I chose this background color because it is the fall season and warmer colors are friendlier. As for the font color, it matches the background according to the color wheel. The enter button will be orange color, a very catchy color. 
+
+b)Images-See folder
+c)SiteMap-See folder
+
+d)
+
+HOME PAGE
+
+Welcome. Enter.
+
+PROJECTS
+
+
+ABOUT
+
+Hi, My Name is Jenny Chen. I am a new web developer. I think a good webpage design will grab the attention of the visitor but also highlight the message of your brand or business. It should have nice colors, typography, imagery and it is should be smooth transitioning and load fast. Simple but engaging. Creative but functional. I am passionate about bringing art and design in creating awesome webpages. Please check out my work and let me know if you have any feedback or you would like to work together on projects.
+ 
+
+My technical skills are HTML, CCS, JavaScript, Node JS, Git. I am currently in bootcamp learning about web development from a really good instructor. My next adventure after this is to learn Python, so I can be a better developer and programmer.  
+
+CONTACT
+
+
+
+e) Examples portfolio websites: 
+
+https://www.wenxinwendyju.com
+
+This website is creative. I like the design of cursor movement. When the user moves the cursor across the page, the cursor becomes a small pink swirl. It is neatly organized into basic sections of many websites: about me, work/project and contact. When I visited this website, the top section shows almost blank. I needed to scroll down further to see content. This is not good because as an user, I thought it is just a blank page if I don't scroll down.  Also, it has two icons on the right and the left that do not give much information of what they are. I need to click on them to find out and they basically take you down to the content of the page. Once the left icon is clicked, three boxes or three sections dropped down like a drop down navigation boxes and when you move the cursor to it, it has red line crosses out the title of section. But the whole box is not clickable, only the area of the title word is clickable which is a small area.  The two navigation icons on the top are the header, the about me and projects sections are the main and the contact is the footer.
+
+
+https://www.christinavanessa.com
+
+The website has an interesting front page. It has a video as the background. It is professionally done to show her work with business brand but when the front page has loaded, I've thought it is a shoe company. The message isn't clear that her business is graphic design. Through out her website, the layout and colors seems to be very professional. The thing I don't like is some parts don't seem to work. The section to follow her on instagram under the About tab doesn't load. Another issue I have with this website, the Explore page and the About page color and layout seem to be same to me and I thought I kept staying in the same page. The About page has some blank spot without picture or so it doesn't balance. The navigation links are the header, the products are the main and there is no footer. There is no link to go back to the front page. 
+
+
+https://www.brookecavallaro.com
+
+This website has very colorful palettes, a balance of dark and light colors. It is organized with the navigation links on the top left, the projects are in the main section and the contact or social media on the footer. I like the contrast of the pink font in the dark green color background. And when the cursor hover over the each work project, it turns to a different shade. It has a lot of images but it is fast loading. It's a very simple and professional website with not many surprising features.  
+
+
+f) Wireframes-see folder
+
+g) Resume-see folder
+
+
