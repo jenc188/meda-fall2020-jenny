@@ -1,5 +1,20 @@
-Project Two
+PROJECT 2
 
+
+MODIFICATIONS:
+
+1) HOME PAGE- The "Enter" button is transparent now to match the whole page. It looked "cheesy" with the orange color. I've also removed the Email icon on bottom of the footer for all pages to LinkedIn icon since I don't know how to make the email app window to pop up. 
+
+2) PROJECT PAGE- I have modified the title of the page from " Projects" to " Recent Projects". 
+
+3) CONTACT PAGE- The title "Contact Form" is taken out since it is obvious that the form is a contact form.   I've also changed the button label word from "send" to "submit" since this is the default word for the button and I like submit on the form. The submit button is not working button since we have not learned backend to deal with form submission. 
+
+4) ABOUT ME PAGE- I've added the link to my resume at the end of second paragraph according to Project 3 instructions.
+
+
+
+
+ORIGINAL PROJECT 2 DESIGN BRIEF: 
 
 a) The colors for whole website will be lighter colors toward more earth tone colors. The background color for all pages will be light peach color. The font color for words and links will be turquoise color. I chose this background color because it is the fall season and warmer colors are friendlier. As for the font color, it matches the background according to the Adobe color wheel . The enter button will be orange color, a very catchy color, with white color text. There will be links on the top right hand corners leading to projects, about and contact pages. These links will appear on all pages. Once the mouse hover over a link, it will be underlined. The text on the contact form will be black color fonts and the send button will orange with white text. There will be a copyright on the bottom left corner in black font and two small icons for email and GitHub on the bottom right corner. The navigation links and the icons on the footer will appear on all pages.
 
